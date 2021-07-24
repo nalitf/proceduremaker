@@ -56,3 +56,13 @@
 
 2021.07.18
 * 試作版を作成・公開しました｡
+
+***
+### 【参考サイト一覧】
+http://officetanaka.net/excel/vba/tips/tips177.htm  
+https://jizilog.com/vba-textboxop  
+https://qiita.com/HMMNRST/items/4c16cb1ed7070965ea5a  
+https://lilia-study.com/excel/excel-vba/sheet/beforedoubleclick.html  
+https://kokodane.com/2013_macro_40.htm  
+https://www.relief.jp/docs/excel-macro-delete-all-shapes.html
+
